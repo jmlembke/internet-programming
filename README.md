@@ -1,3 +1,3 @@
-# Title of my site
+# Game logging site
 ## Overview
-This site does cools stuff.
+This site will allow me to track every game I play and keep notes about them.
